@@ -106,8 +106,15 @@ h3{
 
 .sun{
     margin-top: 3%;
+    
+}
+
+.sun:hover{
+    -webkit-transform:scale(1);
+    transform:scale(0.9);
    
 }
+
 
 
 
@@ -115,24 +122,59 @@ h3{
     margin-top: 3%;
    
 }
+.likeme:hover{
+    -webkit-transform:scale(1);
+    transform:scale(0.9);
+   
+}
 .gonebad{
     margin-top: 3%;
+}
+.gonebad:hover{
+    -webkit-transform:scale(1);
+    transform:scale(0.9);
+   
 }
 
 .ratedr{
     margin-top: 3%;
 }
+.ratedr:hover{
+    -webkit-transform:scale(1);
+    transform:scale(0.9);
+   
+}
 .loud{
     margin-top: 3%;
+}
+.loud:hover{
+    -webkit-transform:scale(1);
+    transform:scale(0.9);
+   
 }
 .talk{
     margin-top: 3%;
 }
+.talk:hover{
+    -webkit-transform:scale(1);
+    transform:scale(0.9);
+   
+}
 .unapologetic{
     margin-top: 3%;
 }
+.unapologetic:hover{
+    -webkit-transform:scale(1);
+    transform:scale(0.9);
+   
+}
 .ANTI{
     margin-top: 3%;
+}
+.ANTI:hover{
+    -webkit-transform:scale(1);
+    transform:scale(0.9);
+   
 }
 h4{
     font-family: 'Jost', sans-serif;
@@ -192,3 +234,40 @@ h5{
     animation: slideInLeft 5s;
 }
 
+.gal1:hover{
+
+        -webkit-transform:scale(1);
+        transform:scale(0.9);
+       
+    }
+
+.gal2:hover{
+
+        -webkit-transform:scale(1);
+        transform:scale(0.9);
+       
+    }
+    .gal3:hover{
+
+        -webkit-transform:scale(1);
+        transform:scale(0.9);
+       
+    }
+    .gal4:hover{
+
+        -webkit-transform:scale(1);
+        transform:scale(0.9);
+       
+    }
+    .gal5:hover{
+
+        -webkit-transform:scale(1);
+        transform:scale(0.9);
+       
+    }
+    .gal6:hover{
+
+        -webkit-transform:scale(1);
+        transform:scale(0.9);
+       
+    }
